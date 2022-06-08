@@ -336,6 +336,7 @@ body {
     border-radius: 4px;
     color: var(--title-color);
     margin-right: 8px;
+    padding: 6px 22px;
     
 }
 .filtr-btn:hover, .filtr-btn:focus {
